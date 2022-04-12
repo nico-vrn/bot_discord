@@ -79,4 +79,4 @@ async def on_message(message):
         while i<50:
             await channelused.send("&spamlog")
             i+=1
-client.run("Njk2Mjc5ODg2NjkxODI3NzUy.XombLQ.sflZR9gyvbfqJcs-P50guQC1jfY")
+client.run("")
